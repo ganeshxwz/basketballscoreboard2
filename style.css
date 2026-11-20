@@ -1,15 +1,38 @@
 body{
     background-color: #1b244a;
+    
 }
 h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: white
-    ;
+    color: white;
+
 }
-#screencounter{
-    height: 120px;
+#screencounter1,#screencounter2{
+    height: 90px;
     width: 155px;
     margin: 20px;
-   
+    color: #F94F6D;
     background-color: black;
+    font-size: 80px;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+.board{
+    display: flex;
+    text-align: center;
+}
+
+#screencounter1,#screencounter2,button{
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    
+}
+
+button{
+    color: white;
+    background-color: #1b244a;
+    padding: 9px 10px;
+    border: 2px solid white;
+    margin: 1px;
+    border-radius: 6px;
 }
