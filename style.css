@@ -1,0 +1,15 @@
+body{
+    background-color: #1b244a;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white
+    ;
+}
+#screencounter{
+    height: 120px;
+    width: 155px;
+    margin: 20px;
+   
+    background-color: black;
+}
